@@ -1,4 +1,4 @@
-# Project Title
+# Todo CLI
 
 A todo list cli app created using Go. (to understand Go ofcourse)
 
