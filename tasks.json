@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "description": "test1",
+      "status": "todo",
+      "createdat": "2025-01-18T16:54:48.338371+05:30",
+      "updatedat": "2025-01-18T16:54:48.338371+05:30"
+    },
+    {
+      "id": 2,
+      "description": "test2",
+      "status": "todo",
+      "createdat": "2025-01-18T16:54:50.1820737+05:30",
+      "updatedat": "2025-01-18T16:54:50.1820737+05:30"
+    },
+    {
+      "id": 4,
+      "description": "test4",
+      "status": "todo",
+      "createdat": "2025-01-18T16:54:54.3799188+05:30",
+      "updatedat": "2025-01-18T16:54:54.3799188+05:30"
+    }
+  ]
+}
